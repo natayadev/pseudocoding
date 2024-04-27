@@ -1,5 +1,5 @@
-# pseudocoding
-Ejercicios de pseudocódigo para ejercitar tu lógica de programación
+# Pseudocoding
+*Ejercicios de Pseudocódigo para ejercitar tu lógica de programación 🧑‍💻*
 
 1. Realizar un programa que calcule una suma de dos números. Muestra cómo cargar dos números de dos variables, calcular la suma de los mismos y mostrarla en pantalla.
 2. Añadir al ejemplo anterior la posibilidad de mostrar en pantalla la resta y la multiplicación de esos mismos dos números.
@@ -11,3 +11,5 @@ Ejercicios de pseudocódigo para ejercitar tu lógica de programación
 8. Crear un programa que calcule el sueldo anual de un programador. Pide al usuario que ingrese su sueldo mensual y luego multiplica este valor por 12 para obtener el sueldo anual.
 9. Desarrollar un convertidor de temperaturas de Celsius a Fahrenheit. Solicita al usuario que ingrese la temperatura en grados Celsius, luego aplica la fórmula de conversión (Fahrenheit = Celsius × 9/5 + 32) y muestra el resultado en pantalla.
 10. Elaborar una calculadora de descuentos. Pide al usuario que ingrese el precio original del producto y el porcentaje de descuento aplicado (ejemplo: 30%). Calcula el monto del descuento y el precio final con descuento.
+
+🤓👆 Los resultados se subirán en Pseudocódigo ejecutable en **PSEINT**.
